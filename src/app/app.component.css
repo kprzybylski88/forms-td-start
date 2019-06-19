@@ -1,0 +1,8 @@
+.container {
+  margin-top: 30px;
+}
+
+.ng-invalid.ng-touched:not(div):not(form) {
+  background: #e08888;
+  border: 3px solid burlywood;
+}
